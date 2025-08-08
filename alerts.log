@@ -1,0 +1,2 @@
+2025-08-08T22:47:10.283968Z | SYSTEM | NetListener monitoring started | {"interface":"eth0","window":10,"scan_threshold":12,"suspicious_tlds":[]}
+2025-08-08T22:48:35.220148Z | SYSTEM | NetListener monitoring stopped | {"runtime_seconds":84.9,"packets_processed":242,"alerts_raised":0}
