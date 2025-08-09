@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from scapy.layers.l2 import ARP
 
 def check(pkt, state, log):
